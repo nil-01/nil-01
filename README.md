@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilesh%20Yadav-blue?style=flat&logo=linkedin)](https://linkedin.com/in/nilesh-yadav-cse)
 [![LeetCode](https://img.shields.io/badge/LeetCode-nil__01-orange?style=flat&logo=leetcode)](https://leetcode.com/nil_01/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-nil__0__1-brightgreen?style=flat&logo=hackerrank)](https://hackerrank.com/nil_0_1)
+[![Credly](https://img.shields.io/badge/Credly-Certifications-green?style=flat&logo=credly)](https://www.credly.com/users/nilesh-yadav.1d550053)
 
 ## 🚀 About Me
 
@@ -67,4 +68,5 @@ Percentile: 91
 - 📧 Email: [shailesh.y12340@gmail.com](mailto:shailesh.y12340@gmail.com)
 - 📱 Mobile: +91-9316483520
 - 💼 LinkedIn: [nilesh-yadav-cse](https://linkedin.com/in/nilesh-yadav-cse)
+- 🏆 Certifications: [Credly Profile](https://www.credly.com/users/nilesh-yadav.1d550053)
 - 🌍 Location: Gujarat, India
