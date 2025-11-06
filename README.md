@@ -1,6 +1,6 @@
 # Nilesh Yadav's Portfolio 👋
 
-**Jr. Software Developer | Full-Stack Developer | Problem Solver**
+**Full-Stack AI-ML Cloud Engineer | Problem Solver**
 
 [![Email](https://img.shields.io/badge/Email-shailesh.y12340%40gmail.com-red?style=flat&logo=gmail)](mailto:shailesh.y12340@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilesh%20Yadav-blue?style=flat&logo=linkedin)](https://linkedin.com/in/nilesh-yadav-cse)
@@ -9,8 +9,7 @@
 [![Credly](https://img.shields.io/badge/Credly-Certifications-green?style=flat&logo=credly)](https://www.credly.com/users/nilesh-yadav.1d550053)
 
 ## 🚀 About Me
-
-A passionate Jr. Software Developer with expertise in .NET Core, Angular, and database management. Skilled in designing efficient APIs, integrating payment gateways, and contributing to collaborative team projects. Proven leadership and problem-solving abilities through technical team roles and innovative projects.
+A passionate developer with a strong foundation in Full-Stack AI/ML Cloud Engineer. Currently working on innovative projects while advancing expertise in Azure, AWS, and Databricks. Expertise in .NET Core, Angular, and database management. Skilled in designing efficient APIs, integrating payment gateways, and contributing to collaborative team projects. Proven leadership and problem-solving abilities through technical team roles and innovative projects.
 
 ## 🛠️ Skills
 
@@ -27,12 +26,18 @@ A passionate Jr. Software Developer with expertise in .NET Core, Angular, and da
 ![Git](https://img.shields.io/badge/GIT-Expert-orange) ![Azure](https://img.shields.io/badge/Azure-Intermediate-blue) ![AWS](https://img.shields.io/badge/AWS-Beginner-yellow) ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-orange)
 
 ## 💼 Experience
+**Assistant Manager – Technology (API)** @[Adani Digital Labs](https://adanidigitallabs.com)
+*Oct 2025 – Present | Ahmedabad, Gujarat*  
+- Leading **API architecture** and **full-stack solution design** using `.NET Core` 
+- Building and optimizing **secure, scalable RESTful APIs** for enterprise-level applications  
+- Actively upskilling in **Data Engineering**, **AI/ML**, and **Databricks** to deliver intelligent, data-driven solutions  
 
 **Jr. Software Developer** @ [Shaligram Infotech | Satva Softech (UK)](https://shaligraminfotech.com)  
-*(Sep 2023 - Present | Remote)*  
+*(Sep 2023 - Oct 2025 | Remote)*  
 - Specialize in backend development using Dapper and Entity Framework within .NET Core
 - Contribute to frontend development in Angular
 - Write specs for Angular projects and deliver robust solutions
+- Collaborating with cross-functional teams to drive **AI integration** and **cloud automation** using `AWS`  
 
 **Trainee Software Developer** @ [Shaligram Infotech](https://shaligraminfotech.com)  
 *(Jan 2023 - Aug 2023 | Remote)*  
